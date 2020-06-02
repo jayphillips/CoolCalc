@@ -14,7 +14,7 @@ import UIKit
         super.awakeFromNib()
         
         let button = UIButton()
-        button.layer.cornerRadius = 0.5
+        button.layer.cornerRadius = 25
         button.layer.borderColor = #colorLiteral(red: 1.0, green: 1.0, blue: 1.0, alpha: 1.0)
         button.layer.borderWidth = 1
     }
